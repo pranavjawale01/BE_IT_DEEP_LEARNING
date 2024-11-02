@@ -1,5 +1,20 @@
 # BE_IT_DEEP_LEARNING
 
+## Required Libraries Installation
+
+```bash
+pip install tensorflow          # Used for building and training neural networks.
+pip install keras               # High-level neural networks API, running on top of TensorFlow.
+pip install torch               # An alternative deep learning framework.
+pip install numpy               # Fundamental package for numerical computations in Python.
+pip install pandas              # Data analysis and manipulation library.
+pip install matplotlib          # Plotting library for creating visualizations.
+pip install seaborn             # Statistical data visualization library based on Matplotlib.
+pip install scikit-learn        # Machine learning library for data preprocessing and evaluation.
+pip install scipy               # Library for scientific and technical computing.
+pip install nltk spacy          # For natural language processing tasks.
+```
+
 # Syllabus Problem Statement
 
 | Assignment | Description | Steps |
