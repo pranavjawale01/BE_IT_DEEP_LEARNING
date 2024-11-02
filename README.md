@@ -13,6 +13,7 @@ pip install seaborn             # Statistical data visualization library based o
 pip install scikit-learn        # Machine learning library for data preprocessing and evaluation.
 pip install scipy               # Library for scientific and technical computing.
 pip install nltk spacy          # For natural language processing tasks.
+pip install theano
 ```
 
 # Syllabus Problem Statement
