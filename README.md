@@ -14,6 +14,7 @@ pip install scikit-learn        # Machine learning library for data preprocessin
 pip install scipy               # Library for scientific and technical computing.
 pip install nltk spacy          # For natural language processing tasks.
 pip install theano
+pip install scikit-learn
 ```
 
 # Syllabus Problem Statement
