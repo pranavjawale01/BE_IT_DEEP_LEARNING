@@ -16,6 +16,24 @@ pip install nltk spacy          # For natural language processing tasks.
 pip install theano
 pip install scikit-learn
 ```
+# NEW Problem Statement
+
+| No | Project Description                                                             |
+|----|-------------------------------------------------------------------------------|
+| 1  | Demonstrate use of TensorFlow and PyTorch by implementing simple code in Python |
+| 2  | Demonstrate use of TensorFlow and Keras (Diabetes Dataset) by implementing simple code in Python |
+| 3  | Implement Feedforward neural networks with Keras and TensorFlow MNIST Digit dataset |
+| 4  | Implement Feedforward neural networks with Keras and TensorFlow CIFAR image dataset |
+| 5  | Build image classification model using CNN on Fashion MNIST dataset           |
+| 6  | Build image classification model using CNN on pneumonia X-ray image dataset   |
+| 7  | Build Brain Tumor classification model with CNN                               |
+| 8  | Build Recurrent Neural Network by using the NumPy library                      |
+| 9  | Use Autoencoder to implement anomaly detection on credit card dataset          |
+| 10 | Implement the concept of image denoising using autoencoders on MNIST dataset  |
+| 11 | Implement object detection using Transfer Learning on flower dataset           |
+| 12 | Implement image classification using Transfer Learning on animal dataset       |
+| 13 | Implement the Continuous Bag of Words (CBOW) Model                           |
+
 
 # Syllabus Problem Statement
 
